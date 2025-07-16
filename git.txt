@@ -1,0 +1,1 @@
+✅Command to Go Out of the Folder= cd..
